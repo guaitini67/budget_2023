@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1673790721 source:d:\giovanni\programmi c\budget_2023\main.cpp
+	"main.h"
+
+1673292660 d:\giovanni\programmi c\budget_2023\resource.h
+
+1673812561 source:d:\giovanni\programmi c\budget_2023\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+	"define.h"
+
+1673709133 d:\giovanni\programmi c\budget_2023\define.h
+
+1672782297 d:\giovanni\programmi c\budget_2023\main.h
+	"resource.h"
+	"define.h"
+	"struct.h"
+	"globfun.h"
+	"dlgmain.h"
+	"dlgday.h"
+	"diafield.h"
+	"dlgcompute.h"
+
+1673215441 d:\giovanni\programmi c\budget_2023\struct.h
+
+1673392013 d:\giovanni\programmi c\budget_2023\globfun.h
+	<stdio.h>
+	<dos.h>
+	<time.h>
+	<windows.h>
+	<windowsx.h>
+	"define.h"
+	"struct.h"
+
+1673905631 source:d:\giovanni\programmi c\budget_2023\globfun.cpp
+	"globfun.h"
+
+1672782361 d:\giovanni\programmi c\budget_2023\diafield.h
+	<windows.h>
+	<windowsx.h>
+	"resource.h"
+	"globfun.h"
+	"define.h"
+
+1673903164 source:d:\giovanni\programmi c\budget_2023\diafield.cpp
+	"diafield.h"
+
+1673718698 d:\giovanni\programmi c\budget_2023\dlgday.h
+	<windows.h>
+	<windowsx.h>
+	"resource.h"
+	"globfun.h"
+	"struct.h"
+	"dlgnote.h"
+	"dlgcompute.h"
+
+1673905901 source:d:\giovanni\programmi c\budget_2023\dlgday.cpp
+	"dlgday.h"
+
+1673793744 d:\giovanni\programmi c\budget_2023\dlgmain.h
+	"resource.h"
+	"globfun.h"
+	"dlgday.h"
+	"diafield.h"
+	"dlgcompute.h"
+
+1673905497 source:d:\giovanni\programmi c\budget_2023\dlgmain.cpp
+	"dlgmain.h"
+
+1672086078 source:d:\giovanni\programmi c\budget_2023\define.h
+
+1672172850 source:d:\giovanni\programmi c\budget_2023\diafield.h
+	<stdio.h>
+	<dos.h>
+	<time.h>
+	<windows.h>
+	"resource.h"
+	"globfun.h"
+
+1672173635 source:d:\giovanni\programmi c\budget_2023\dlgday.h
+	<stdio.h>
+	<dos.h>
+	<time.h>
+	<windows.h>
+	"resource.h"
+	"globfun.h"
+
+1672177496 source:d:\giovanni\programmi c\budget_2023\dlgmain.h
+	<stdio.h>
+	<dos.h>
+	<time.h>
+	<windows.h>
+	<commctrl.h>
+	"resource.h"
+	"globfun.h"
+	"dlgday.h"
+	"diafield.h"
+
+1672176820 source:d:\giovanni\programmi c\budget_2023\globfun.h
+	<stdio.h>
+	<dos.h>
+	<time.h>
+	"define.h"
+
+1672177446 source:d:\giovanni\programmi c\budget_2023\main.h
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<dos.h>
+	<io.h>
+	<time.h>
+	"resource.h"
+	"define.h"
+	"struct.h"
+	"globfun.h"
+	"dlgday.h"
+	"diafield.h"
+
+1672085659 source:d:\giovanni\programmi c\budget_2023\resource.h
+
+1671991996 source:d:\giovanni\programmi c\budget_2023\struct.h
+
+1673715433 d:\giovanni\programmi c\budget_2023\dlgcompute.h
+	<stdio.h>
+	<dos.h>
+	<time.h>
+	<windows.h>
+	<commctrl.h>
+	"resource.h"
+	"globfun.h"
+
+1673905071 source:d:\giovanni\programmi c\budget_2023\dlgcompute.cpp
+	"dlgcompute.h"
+
+1673905608 source:d:\giovanni\programmi c\budget_2023\dlgnote.cpp
+	"dlgnote.h"
+
+1673219194 d:\giovanni\programmi c\budget_2023\dlgnote.h
+	<windows.h>
+	<windowsx.h>
+	"resource.h"
+	"globfun.h"
+	"struct.h"
+	"define.h"
+
